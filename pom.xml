@@ -26,6 +26,10 @@
         <module>qingcheng_service_pay</module>
         <module>qingcheng_common</module>
         <module>qingcheng_common_service</module>
+        <module>qingcheng_common_web</module>
+        <module>qingcheng_pojo</module>
+        <module>qingcheng_interface</module>
+        <module>qingcheng_service_goods</module>
     </modules>
 
     <packaging>pom</packaging>
