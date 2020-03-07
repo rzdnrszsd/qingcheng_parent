@@ -30,6 +30,7 @@
         <module>qingcheng_pojo</module>
         <module>qingcheng_interface</module>
         <module>qingcheng_service_goods</module>
+        <module>qingcheng_web_manager</module>
     </modules>
 
     <packaging>pom</packaging>
